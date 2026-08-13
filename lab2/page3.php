@@ -8,7 +8,7 @@
     </head>
     <body>
         <h1><?php echo $header; ?></h1>
-        <p>Feel free to reach out to me for any inquiries or collaborations regarding my computer science projects.</p>
+        <p>Feel free to reach out to me for any inquiries.</p>
 
         <img src="https://www.shutterstock.com/image-vector/contact-me-megaphone-icon-vector-260nw-602001641.jpg" alt="Contact Icon" width="200"><br><br>
 
