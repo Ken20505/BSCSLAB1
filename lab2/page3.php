@@ -12,7 +12,7 @@
 
         <img src="https://www.shutterstock.com/image-vector/contact-me-megaphone-icon-vector-260nw-602001641.jpg" alt="Contact Icon" width="200"><br><br>
 
-        <a href="page1.php">Go to Home (Page 1)</a> |
-        <a href="page2.php">Go to Projects (Page 2)</a>
+        <a href="page1.php">Home (Page 1)</a> |
+        <a href="page2.php">Projects (Page 2)</a>
     </body>
 </html>

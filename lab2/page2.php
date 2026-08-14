@@ -12,7 +12,7 @@
 
         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyOdcOFoHfAvy_w0tpNJEKNWFrHBIdfDHg2yA1cP8YYnq1Oq687BcEeHRh&s=10" alt="Projects Image" width="200"><br><br>
 
-        <a href="page1.php">Go to Home (Page 1)</a> |
-        <a href="page3.php">Go to Contact (Page 3)</a>
+        <a href="page1.php">Home (Page 1)</a> |
+        <a href="page3.php">Contact (Page 3)</a>
     </body>
 </html>
